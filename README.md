@@ -1,8 +1,20 @@
-Kasper Onepage Creative Template
-========
-<img src="https://cloud.githubusercontent.com/assets/10640964/6157071/e1bff1a2-b268-11e4-86c1-d77170a7ab7f.jpg" />
 
-<a href="http://themefisher.com/download/kasper-onepage-creative-template/">Live Preview</a>
-========
+# Easy Install | WebDev
+>Een website gemaakt voor het bedrijf Easy Install
 
-Kasper is creative one page HTML5 template great for portfolio,agency or any other web page.Kasper is a great template for freelancers, startups and even the bigger companies who want to show their work and expertise in an elegant an professional way. Mobile visitors will still be attracted to it’s minimalistic but user-friendly approach.
+## Project Info
+Voor het vak WebDevelopment op ODISEE had ik de opdracht gekregen om een website te maken van een fictief bedrijf.
+Ik heb hiervoor Easy Install gecontacteerd om te vragen of ik een website voor hen mocht ontwerpen.
+Na meerdere interviews en concepten zijn we tot de conclusie gekomen voor een one-page.
+
+## Used Software & Technologies
+
+* Brackets - IDE
+* Bootstrap
+* HTML & CSS
+* JavaScript
+
+
+## Authors
+
+* **Elliot Borryn** - [GitHub](https://github.com/elliotborryn)
